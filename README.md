@@ -6,25 +6,22 @@
 
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Mücahit</a> 👋
+Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
 </h3>
 
-**MucahitZengin/MucahitZengin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Follow my steps
 
-Here are some ideas to get you started:
-<!--
-- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning front-end.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-<!--
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... I'm learning a course on Patika.dev
+- 🌱 I’m currently learning ... Front-end Web Development
+- 👯 I’m looking to collaborate on ... Frontend Web Development
+- 💬 Ask me about ... About what ? :)
+- 📫 How to reach me: ... DM :)
+- 😄 Pronouns: ... Her
+- ⚡ Fun fact: ... myself
 
 
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <a href="https://app.patika.dev/mucahitzengin">
   <img align="left" 
