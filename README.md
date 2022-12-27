@@ -9,17 +9,6 @@
 Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
 </h3>
 
-## Follow my steps
-
-- 🔭 I’m currently working on ... I'm learning a course on Patika.dev
-- 🌱 I’m currently learning ... Front-end Web Development
-- 👯 I’m looking to collaborate on ... Frontend Web Development
-- 💬 Ask me about ... About what ? :)
-- 📫 How to reach me: ... DM :)
-- 😄 Pronouns: ... Her
-- ⚡ Fun fact: ... myself
-
-
 
 ## 🤝 Connect with me:
 
