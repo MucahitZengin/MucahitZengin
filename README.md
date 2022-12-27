@@ -39,14 +39,15 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
        width="21px"/>
 </a>
 
+[![Hackerrank](https://www.google.com/s2/favicons?domain=hackerrank.com)](https://www.hackerrank.com/mucahit_zngn01)
 
-
+<!--
 <a href="https://www.hackerrank.com/mucahit_zngn01">
 <img align="left" 
      src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" 
      alt="Yu Shi | Medium" 
      width="21px"/>
-</a>
+</a> -->
 
 </br>
 </br>
