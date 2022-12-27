@@ -52,3 +52,10 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
 </br>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+
+</br>
+</br>
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=MucahitZengin&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=MucahitZengin&show_icons=true&theme=radical)
