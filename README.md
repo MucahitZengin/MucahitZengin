@@ -36,19 +36,21 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
      size="64x64"/>
 </a> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mucahitzengin" alt="mucahit" /> </p>
-
 <!-- [![Hackerrank](https://www.google.com/s2/favicons?domain=hackerrank.com)](https://www.hackerrank.com/mucahit_zngn01) -->
 
-
-
-
 </br>
-</br>
+
+#### Email : mucahitzengin11@gmail.com
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-
-</br>
 </br>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=MucahitZengin&show_icons=true&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mucahitzengin" alt="profileViews" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mucahitzengin" alt="muhammedzahit" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mucahitzengin&show_icons=true&locale=en&layout=compact" alt="muhammedzahit" /></p>
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=MucahitZengin&show_icons=true)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mucahitzengin&" alt="muhammedzahit" /></p>
