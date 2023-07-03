@@ -36,6 +36,8 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
      size="64x64"/>
 </a> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mucahitzengin" alt="mucahit" /> </p>
+
 <!-- [![Hackerrank](https://www.google.com/s2/favicons?domain=hackerrank.com)](https://www.hackerrank.com/mucahit_zngn01) -->
 
 
