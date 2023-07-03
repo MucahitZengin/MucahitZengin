@@ -54,3 +54,5 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=MucahitZengin&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mucahitzengin&" alt="muhammedzahit" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mucahitzengin\&rank_icon=percentile)
