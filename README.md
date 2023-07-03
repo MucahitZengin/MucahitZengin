@@ -30,8 +30,8 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
 
 <a href="https://www.hackerrank.com/mucahitzengin" size="64x64">
 <img align="left" 
-     src="https://www.google.com/s2/favicons?domain=hackerrank.com" 
-     alt="Yu Shi | Medium" 
+     src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" 
+     alt="Mücahit Zengin | Hackerrank" 
      width="21px"
      size="64x64"/>
 </a> 
