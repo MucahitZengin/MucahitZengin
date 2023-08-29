@@ -42,6 +42,8 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -67,6 +69,8 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
   </a>
 </p>
 </br>
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mucahitzengin" alt="profileViews" /> </p>
 
