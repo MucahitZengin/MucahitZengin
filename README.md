@@ -74,13 +74,13 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mucahitzengin" alt="profileViews" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mucahitzengin&theme=dracula" alt="muhammedzahit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mucahitzengin&theme=dracula" alt="githubstats" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mucahitzengin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedzahit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mucahitzengin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="githubstats" /></p>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=MucahitZengin&show_icons=true&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mucahitzengin&theme=tokyonight" alt="muhammedzahit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mucahitzengin&theme=tokyonight" alt="githubstats" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mucahitzengin\&rank_icon=percentile&theme=tokyonight)
 
