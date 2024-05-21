@@ -12,7 +12,7 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
 
 ## 🤝 Connect with me:
 
-<a href="https://app.patika.dev/mucahitzengin">
+<a href="https://academy.patika.dev/@mucahitzengin">
   <img align="left" 
        src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/favicon.png?v1" 
        alt="Mücahit Zengin | Patika" 
@@ -33,6 +33,11 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
      width="21px"
      size="64x64"/>
 </a> 
+
+[<img align="left" alt="" width="21px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />][medium]
+
+[<img align="left" alt="" width="21px" src="https://cdn-icons-png.flaticon.com/128/15059/15059911.png" />][stackoverflow]
+
 
 <!-- [![Hackerrank](https://www.google.com/s2/favicons?domain=hackerrank.com)](https://www.hackerrank.com/mucahit_zngn01) -->
 
@@ -85,3 +90,5 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Mücahit</a> 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mucahitzengin\&rank_icon=percentile&theme=tokyonight)
 
 
+[medium]: https://mucahitzengin.medium.com/
+[stackoverflow]: https://stackoverflow.com/users/20617219/m%c3%bccahit-zengin
